@@ -1,0 +1,3 @@
+/Users/kylelee/Desktop/raytracing/build/CMakeFiles/raytracing.dir
+/Users/kylelee/Desktop/raytracing/build/CMakeFiles/edit_cache.dir
+/Users/kylelee/Desktop/raytracing/build/CMakeFiles/rebuild_cache.dir
